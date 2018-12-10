@@ -5,3 +5,5 @@ baseurl: "gaildavis"
 permalink: pretty
 copyright: 2015
 
+
+theme: jekyll-theme-cayman
