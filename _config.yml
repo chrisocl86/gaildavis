@@ -1,0 +1,7 @@
+name: Dr. Gail Davis
+markdown: redcarpet
+pygments: true
+baseurl: "gaildavis"
+permalink: pretty
+copyright: 2015
+
